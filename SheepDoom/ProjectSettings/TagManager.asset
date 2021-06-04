@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Attack
+  - Skill
+  - Ulti
+  - Shop
+  - Tower
+  - Base
+  - EnemyMinion
+  - NeutralMinion
+  - BaseMinion
+  - MegaBoss
+  - Team1
+  - lobbyPlayer
+  - Other
+  - TeamConsortiumRangeCreep
+  - TeamCoalitionRangeCreep
+  - MapItem
+  - TeamCoaHealPad
+  - TeamConHealPad
+  - Stage
+  - Shield
+  - DeathBall
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TeamCoalition
+  - TeamConsortium
+  - Minimap
+  - PlayerOnMiniMap
+  - Map
+  - Background
+  - Towers
+  - PlayerCollisionbox
+  - IgnoreLayer
+  - Post Processing
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
