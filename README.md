@@ -23,23 +23,18 @@ The mobile game utilizes mirror networking as its networking solution to connect
 ## Excerpts:
 *Controls*
 
-
 ![alt text](https://github.com/doomsheep1/SheepDoom_MOBA_final/blob/main/readme%20pics/Picture1.png "Controls")
 
-
 *Attacks/skills*
-
 
 ![alt text](https://github.com/doomsheep1/SheepDoom_MOBA_final/blob/main/readme%20pics/Picture3.png "Attacks/skills")
 ![alt text](https://github.com/doomsheep1/SheepDoom_MOBA_final/blob/main/readme%20pics/Picture4.png "Attacks/skills")
 
 *Map layout*
 
-
 ![alt text](https://github.com/doomsheep1/SheepDoom_MOBA_final/blob/main/readme%20pics/Picture5.png "Map layout")
 
 *AI minions/megaboss*
-
 
 ![alt text](https://github.com/doomsheep1/SheepDoom_MOBA_final/blob/main/readme%20pics/Picture6.png "AI minions")
 ![alt text](https://github.com/doomsheep1/SheepDoom_MOBA_final/blob/main/readme%20pics/Picture7.png "Megaboss")
