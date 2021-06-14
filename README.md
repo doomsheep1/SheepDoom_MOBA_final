@@ -1,6 +1,6 @@
 ![alt text](https://github.com/doomsheep1/SheepDoom_MOBA_final/blob/main/readme%20pics/title%20banner.PNG "SheepDoom title")
 ## Project description
-This project is a solo continuation of huge self-directed **school project by a team** to develop a multiplayer online battle arena game (MOBA) for **android devices**. The game follows a standard formula where players form 2 teams with each player choosing from a few characters, each with different characteristics. The 2 teams will oppose each other and achieve map objectives (e.g., kill opposing team’s forces, occupy capture points etc.).
+This project is a solo continuation of a huge self-directed **school project by a team** to develop a multiplayer online battle arena game (MOBA) for **android devices**. The game follows a standard formula where players form 2 teams with each player choosing from a few characters, each with different characteristics. The 2 teams will oppose each other and achieve map objectives (e.g., kill opposing team’s forces, occupy capture points etc.).
 ### Credits to original team
 1. [@ItsLame](https://github.com/ItsLame)
 2. [@mapleleafrog](https://github.com/mapleleafrog)
