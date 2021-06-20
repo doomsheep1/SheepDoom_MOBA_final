@@ -19,7 +19,7 @@ The mobile game utilizes mirror networking as its networking solution to connect
 1. The game is client-authoritative
 2. [The transport protocol used is KCP (with UDP as its underlying protocol)](https://github.com/skywind3000/kcp/blob/master/README.en.md)
 ## [Promotional video](https://www.youtube.com/watch?v=nzxjs8EzuSc)
-## [Ongoing developments](https://trello.com/b/hH8Jrxxg/sheepdoom-continuation)
+## [Potential developments](https://trello.com/b/hH8Jrxxg/sheepdoom-continuation)
 ## Excerpts:
 *Controls*
 
